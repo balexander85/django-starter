@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+.python-version
+public/project/db.sqlite3
+public/project/project/__pycache__/
+public/project/project/settings.json
